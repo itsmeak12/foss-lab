@@ -1,3 +1,4 @@
+abc
 This is a sample file created in sample-repo.
 To familiarize with version control system.
 In master : to check conflicts

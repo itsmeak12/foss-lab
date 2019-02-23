@@ -1,2 +1,6 @@
 This is a sample file created in sample-repo.
 To familiarize with version control system.
+
+
+Some new lines added
+- To check git diff and git status
